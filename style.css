@@ -1,0 +1,83 @@
+/* Simple modern styling */
+body {
+  font-family: Inter, "Segoe UI", Roboto, Arial, sans-serif;
+  background: #f4f7fb;
+  margin: 0;
+  padding: 20px 12px;
+  color: #222;
+}
+
+.container {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 18px;
+}
+
+.card {
+  background: #fff;
+  border-radius: 10px;
+  padding: 16px;
+  box-shadow: 0 6px 18px rgba(20, 30, 60, 0.06);
+  margin-bottom: 16px;
+}
+
+.form-inline {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.form-inline input[type="number"],
+.form-inline select {
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  min-width: 120px;
+}
+
+.btn {
+  padding: 10px 14px;
+  border-radius: 8px;
+  background: #0b74de;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.btn-secondary {
+  background: #6c757d;
+}
+.btn:hover { opacity: 0.95; }
+
+.result {
+  margin-top: 12px;
+  padding: 10px;
+  background: #f0f9ff;
+  border-radius: 8px;
+}
+
+.muted { color: #666; }
+.small { font-size: 12px; }
+
+.history {
+  width: 100%;
+  border-collapse: collapse;
+}
+.history th, .history td {
+  border: 1px solid #eee;
+  padding: 8px 10px;
+  text-align: center;
+}
+.history th {
+  background: #0b74de;
+  color: white;
+}
+
+footer {
+  text-align: center;
+  margin-top: 8px;
+  color: #666;
+}

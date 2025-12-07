@@ -1,0 +1,422 @@
+[
+  {
+    "from": "USD",
+    "to": "INR",
+    "target_rate": 10000.0,
+    "created_at": "2025-10-07 23:19:14",
+    "triggered_at": null
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "target_rate": 10000.0,
+    "created_at": "2025-10-07 23:23:43",
+    "triggered_at": null
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "target_rate": 1.25,
+    "created_at": "2025-10-07 23:24:24",
+    "triggered_at": null
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "target_rate": 1.25,
+    "created_at": "2025-10-07 23:28:15",
+    "triggered_at": null
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "target_rate": 0.0008,
+    "created_at": "2025-10-07 23:29:29",
+    "triggered_at": "2025-10-07 23:29:30"
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "target_rate": 0.0008,
+    "created_at": "2025-10-07 23:32:42",
+    "triggered_at": "2025-10-07 23:32:46"
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "target_rate": 0.0016,
+    "created_at": "2025-10-09 11:39:56",
+    "triggered_at": "2025-10-09 11:39:58"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "target_rate": 1.0,
+    "created_at": "2025-10-12 14:49:38",
+    "triggered_at": "2025-10-12 14:49:43"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "target_rate": 1.0,
+    "phone_number": "+919043479513",
+    "current_rate": 88.73,
+    "weekly_high": 88.73,
+    "created_at": "2025-10-12 16:11:14",
+    "triggered_at": "2025-10-12 16:11:24",
+    "sms_sent": true
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "target_rate": 1.0,
+    "phone_number": "+919043479513",
+    "current_rate": 1.0,
+    "weekly_high": 1.0,
+    "created_at": "2025-11-16 21:25:42",
+    "triggered_at": "2025-11-16 21:25:43",
+    "sms_sent": true
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "target_rate": 1.0,
+    "phone_number": "+919043479513",
+    "current_rate": 1.0,
+    "weekly_high": 1.0,
+    "created_at": "2025-11-16 21:28:02",
+    "triggered_at": "2025-11-16 21:28:03",
+    "sms_sent": true
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "target_rate": 1.0,
+    "phone_number": "+919043479513",
+    "current_rate": 1.0,
+    "weekly_high": 1.0,
+    "created_at": "2025-11-16 21:28:14",
+    "triggered_at": "2025-11-16 21:28:15",
+    "sms_sent": true
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "target_rate": 1.0,
+    "phone_number": "+919043479513",
+    "current_rate": 1.0,
+    "weekly_high": 1.0,
+    "created_at": "2025-11-16 21:48:42",
+    "triggered_at": "2025-11-16 21:48:45",
+    "sms_sent": true
+  },
+  {
+    "from": "INR",
+    "to": "USD",
+    "target_rate": 0.0006,
+    "phone_number": "+919025228162",
+    "current_rate": 0.0113,
+    "weekly_high": 0.0113,
+    "created_at": "2025-11-17 11:21:55",
+    "triggered_at": "2025-11-17 11:22:06",
+    "sms_sent": true
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "target_rate": 0.0006,
+    "phone_number": "+919025228162",
+    "current_rate": 1.0,
+    "weekly_high": 1.0,
+    "created_at": "2025-11-17 11:26:39",
+    "triggered_at": "2025-11-17 11:26:39",
+    "sms_sent": true
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "target_rate": 0.0006,
+    "phone_number": "+919025228162",
+    "current_rate": 1.0,
+    "weekly_high": 1.0,
+    "created_at": "2025-11-17 11:27:06",
+    "triggered_at": "2025-11-17 11:27:06",
+    "sms_sent": true
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "target_rate": 0.0006,
+    "phone_number": "+919025228162",
+    "current_rate": 1.0,
+    "weekly_high": 1.0,
+    "created_at": "2025-11-17 11:37:39",
+    "triggered_at": "2025-11-17 11:37:40",
+    "sms_sent": true
+  },
+  {
+    "from": "INR",
+    "to": "USD",
+    "target_rate": 0.0001,
+    "phone_number": "+919025228162",
+    "current_rate": 0.0113,
+    "weekly_high": 0.0113,
+    "created_at": "2025-11-17 11:47:57",
+    "triggered_at": "2025-11-17 11:48:16",
+    "sms_sent": true
+  },
+  {
+    "from": "INR",
+    "to": "USD",
+    "target_rate": 0.0001,
+    "phone_number": "+919025228162",
+    "current_rate": 0.0113,
+    "weekly_high": 0.0113,
+    "created_at": "2025-11-17 11:47:57",
+    "triggered_at": "2025-11-17 11:48:21",
+    "sms_sent": true
+  },
+  {
+    "from": "INR",
+    "to": "USD",
+    "target_rate": 0.0001,
+    "phone_number": "+919025228162",
+    "current_rate": 0.0113,
+    "weekly_high": 0.0113,
+    "created_at": "2025-11-17 11:47:57",
+    "triggered_at": "2025-11-17 11:48:30",
+    "sms_sent": true
+  },
+  {
+    "from": "INR",
+    "to": "USD",
+    "target_rate": 0.0001,
+    "phone_number": "+919025228162",
+    "current_rate": 0.0113,
+    "weekly_high": 0.0113,
+    "created_at": "2025-11-17 11:47:57",
+    "triggered_at": "2025-11-17 11:48:43",
+    "sms_sent": true
+  },
+  {
+    "from": "INR",
+    "to": "USD",
+    "target_rate": 0.0001,
+    "phone_number": "+919025228162",
+    "current_rate": 0.0113,
+    "weekly_high": 0.0113,
+    "created_at": "2025-11-17 11:47:58",
+    "triggered_at": "2025-11-17 11:48:55",
+    "sms_sent": true
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "target_rate": 0.0006,
+    "phone_number": "+919025228162",
+    "current_rate": 88.75,
+    "weekly_high": 88.75,
+    "created_at": "2025-11-17 14:37:59",
+    "triggered_at": "2025-11-17 14:39:04",
+    "sms_sent": true
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "target_rate": 0.0006,
+    "phone_number": "+919025228162",
+    "current_rate": 88.75,
+    "weekly_high": 88.75,
+    "created_at": "2025-11-17 14:51:24",
+    "triggered_at": "2025-11-17 14:51:53",
+    "sms_sent": true
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "target_rate": 0.0001,
+    "phone_number": "+919025228162",
+    "current_rate": 1.0,
+    "weekly_high": 1.0,
+    "created_at": "2025-11-18 09:39:51",
+    "triggered_at": "2025-11-18 09:39:52",
+    "sms_sent": true
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "target_rate": 0.0007,
+    "phone_number": "+919025228162",
+    "current_rate": 88.66,
+    "weekly_high": 88.66,
+    "created_at": "2025-11-18 10:19:09",
+    "triggered_at": "2025-11-18 10:19:22",
+    "sms_sent": true
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "target_rate": 0.0007,
+    "phone_number": "+919025228162",
+    "current_rate": 88.66,
+    "weekly_high": 88.66,
+    "created_at": "2025-11-18 10:25:09",
+    "triggered_at": "2025-11-18 10:25:24",
+    "sms_sent": true
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "target_rate": 0.0006,
+    "phone_number": "+919025228162",
+    "current_rate": 88.66,
+    "weekly_high": 88.66,
+    "created_at": "2025-11-18 10:26:51",
+    "triggered_at": "2025-11-18 10:27:11",
+    "sms_sent": true
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "target_rate": 0.0006,
+    "phone_number": "+919025228162",
+    "current_rate": 88.66,
+    "weekly_high": 88.66,
+    "created_at": "2025-11-18 10:26:55",
+    "triggered_at": "2025-11-18 10:27:31",
+    "sms_sent": true
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "target_rate": 0.0006,
+    "phone_number": "+919025228162",
+    "current_rate": 88.66,
+    "weekly_high": 88.66,
+    "created_at": "2025-11-18 10:26:56",
+    "triggered_at": "2025-11-18 10:27:44",
+    "sms_sent": true
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "target_rate": 0.0006,
+    "phone_number": "+919025228162",
+    "current_rate": 88.66,
+    "weekly_high": 88.66,
+    "created_at": "2025-11-18 10:32:49",
+    "triggered_at": "2025-11-18 10:33:04",
+    "sms_sent": true
+  },
+  {
+    "from": "INR",
+    "to": "USD",
+    "target_rate": 0.001,
+    "phone_number": "+919025228162",
+    "current_rate": 0.0113,
+    "weekly_high": 0.0113,
+    "created_at": "2025-11-18 10:33:56",
+    "triggered_at": "2025-11-18 10:34:12",
+    "sms_sent": true
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "target_rate": 0.0006,
+    "phone_number": "+919025228162",
+    "current_rate": 88.66,
+    "weekly_high": 88.66,
+    "created_at": "2025-11-18 10:34:51",
+    "triggered_at": "2025-11-18 10:35:02",
+    "sms_sent": true
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "target_rate": 0.0006,
+    "phone_number": "+919025228162",
+    "current_rate": 88.66,
+    "weekly_high": 88.66,
+    "created_at": "2025-11-18 10:38:36",
+    "triggered_at": "2025-11-18 10:38:50",
+    "sms_sent": true
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "target_rate": 0.0006,
+    "phone_number": "+919025228162",
+    "current_rate": 88.66,
+    "weekly_high": 88.66,
+    "created_at": "2025-11-18 10:39:10",
+    "triggered_at": "2025-11-18 10:39:22",
+    "sms_sent": true
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "target_rate": 0.0006,
+    "phone_number": "+919025228162",
+    "current_rate": 88.66,
+    "weekly_high": 88.66,
+    "created_at": "2025-11-18 10:39:51",
+    "triggered_at": "2025-11-18 10:40:04",
+    "sms_sent": true
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "target_rate": 0.0005,
+    "phone_number": "+919025228162",
+    "current_rate": 1.0,
+    "weekly_high": 1.0,
+    "created_at": "2025-11-18 10:48:48",
+    "triggered_at": "2025-11-18 10:48:48",
+    "sms_sent": true
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "target_rate": 0.0005,
+    "phone_number": "+919025228162",
+    "current_rate": 1.0,
+    "weekly_high": 1.0,
+    "created_at": "2025-11-18 10:49:19",
+    "triggered_at": "2025-11-18 10:49:19",
+    "sms_sent": true
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "target_rate": 0.0002,
+    "phone_number": "+919025228162",
+    "current_rate": 1.0,
+    "weekly_high": 1.0,
+    "created_at": "2025-11-18 10:52:33",
+    "triggered_at": "2025-11-18 10:52:36",
+    "sms_sent": true
+  },
+  {
+    "from": "INR",
+    "to": "USD",
+    "target_rate": 0.0006,
+    "phone_number": "+919025228162",
+    "current_rate": 0.0113,
+    "weekly_high": 0.0113,
+    "created_at": "2025-11-19 14:32:48",
+    "triggered_at": "2025-11-19 14:33:05",
+    "sms_sent": true
+  },
+  {
+    "from": "INR",
+    "to": "USD",
+    "target_rate": 10.0,
+    "phone_number": "+919025228162",
+    "current_rate": 0.0113,
+    "weekly_high": 0.0113,
+    "created_at": "2025-11-19 15:12:16",
+    "triggered_at": null,
+    "sms_sent": false,
+    "weekly_high_notified": true
+  }
+]

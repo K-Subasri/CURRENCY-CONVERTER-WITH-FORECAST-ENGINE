@@ -1,0 +1,15 @@
+# Twilio SMS Configuration
+# Copy these lines to your command prompt or PowerShell
+
+# For Command Prompt:
+set TWILIO_ACCOUNT_SID=your_actual_account_sid_here
+set TWILIO_AUTH_TOKEN=your_actual_auth_token_here
+set TWILIO_PHONE_NUMBER=+1234567890
+
+# For PowerShell:
+$env:TWILIO_ACCOUNT_SID="your_actual_account_sid_here"
+$env:TWILIO_AUTH_TOKEN="your_actual_auth_token_here"
+$env:TWILIO_PHONE_NUMBER="+1234567890"
+
+# Then run:
+python app.py

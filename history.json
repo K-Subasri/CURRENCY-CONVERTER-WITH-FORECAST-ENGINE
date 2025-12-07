@@ -1,0 +1,568 @@
+[
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 11.0,
+    "result": 968.0,
+    "rate": 88,
+    "mode": "live",
+    "time": "2025-10-07 21:56:16"
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "amount": 12.0,
+    "result": 12.0,
+    "rate": 1.0,
+    "mode": "live",
+    "time": "2025-10-07 21:57:03"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 3.0,
+    "result": 264.0,
+    "rate": 88,
+    "mode": "live",
+    "time": "2025-10-07 21:57:19"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 3.0,
+    "result": 264.0,
+    "rate": 88,
+    "mode": "live",
+    "time": "2025-10-07 21:58:37"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 5.0,
+    "result": 440.0,
+    "rate": 88,
+    "mode": "live",
+    "time": "2025-10-07 22:02:36"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 5.0,
+    "result": 440.0,
+    "rate": 88,
+    "mode": "live",
+    "time": "2025-10-07 22:02:40"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 5.0,
+    "result": 440.0,
+    "rate": 88,
+    "mode": "live",
+    "time": "2025-10-07 22:02:49"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 11.0,
+    "result": 968.0,
+    "rate": 88,
+    "mode": "live",
+    "time": "2025-10-07 22:02:57"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 88.0,
+    "result": 7744.0,
+    "rate": 88,
+    "mode": "simulated",
+    "time": "2025-10-08 15:34:17"
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "amount": 20.0,
+    "result": 20.0,
+    "rate": 1.0,
+    "mode": "simulated",
+    "time": "2025-10-09 06:30:39"
+  },
+  {
+    "from": "INR",
+    "to": "USD",
+    "amount": 20.0,
+    "result": 0.22,
+    "rate": 0.011,
+    "mode": "simulated",
+    "time": "2025-10-09 06:30:54"
+  },
+  {
+    "from": "EUR",
+    "to": "INR",
+    "amount": 2.0,
+    "result": 192.0,
+    "rate": 96,
+    "mode": "live",
+    "time": "2025-10-09 11:38:25"
+  },
+  {
+    "from": "INR",
+    "to": "USD",
+    "amount": 20.0,
+    "result": 0.22,
+    "rate": 0.011,
+    "mode": "live",
+    "time": "2025-10-09 12:12:49"
+  },
+  {
+    "from": "INR",
+    "to": "USD",
+    "amount": 1000.0,
+    "result": 11.0,
+    "rate": 0.011,
+    "mode": "live",
+    "time": "2025-10-09 12:13:22"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 11.0,
+    "result": 968.0,
+    "rate": 88,
+    "mode": "live",
+    "time": "2025-10-09 12:16:46"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 1000.0,
+    "result": 88000.0,
+    "rate": 88,
+    "mode": "live",
+    "time": "2025-10-09 12:17:17"
+  },
+  {
+    "from": "INR",
+    "to": "USD",
+    "amount": 11.0,
+    "result": 0.12,
+    "rate": 0.0113,
+    "cost_range_min": 0.12,
+    "cost_range_max": 0.13,
+    "mode": "live",
+    "time": "2025-10-12 11:49:52"
+  },
+  {
+    "from": "INR",
+    "to": "USD",
+    "amount": 11.0,
+    "result": 0.12,
+    "rate": 0.0113,
+    "cost_range_min": 0.12,
+    "cost_range_max": 0.13,
+    "mode": "live",
+    "time": "2025-10-12 14:24:48"
+  },
+  {
+    "from": "INR",
+    "to": "USD",
+    "amount": 1.0,
+    "result": 0.01,
+    "rate": 0.0113,
+    "cost_range_min": 0.01,
+    "cost_range_max": 0.01,
+    "mode": "live",
+    "time": "2025-10-12 14:28:01"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 11.0,
+    "result": 976.03,
+    "rate": 88.73,
+    "cost_range_min": 956.51,
+    "cost_range_max": 995.55,
+    "mode": "live",
+    "time": "2025-10-12 14:36:55"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 10.0,
+    "result": 887.3,
+    "rate": 88.73,
+    "mode": "live",
+    "cost_range": {
+      "min": 878.43,
+      "max": 896.17,
+      "variance": 0.01
+    },
+    "time": "2025-10-12 14:46:47"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 2.0,
+    "result": 176.0,
+    "rate": 88,
+    "mode": "live",
+    "cost_range": {
+      "min": 174.24,
+      "max": 177.76,
+      "variance": 0.01
+    },
+    "time": "2025-10-12 14:54:10"
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "amount": 12.0,
+    "result": 12.0,
+    "rate": 1.0,
+    "mode": "live",
+    "cost_range": {
+      "min": 11.88,
+      "max": 12.12,
+      "variance": 0.01
+    },
+    "time": "2025-10-12 15:05:16"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 2.0,
+    "result": 177.46,
+    "rate": 88.73,
+    "mode": "live",
+    "cost_range": {
+      "min": 175.69,
+      "max": 179.23,
+      "variance": 0.01
+    },
+    "time": "2025-10-12 15:05:46"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 2.0,
+    "result": 177.46,
+    "rate": 88.73,
+    "mode": "live",
+    "cost_range": {
+      "min": 175.69,
+      "max": 179.23,
+      "variance": 0.01
+    },
+    "time": "2025-10-12 15:05:46"
+  },
+  {
+    "from": "INR",
+    "to": "USD",
+    "amount": 11.0,
+    "result": 0.12,
+    "rate": 0.0113,
+    "mode": "live",
+    "cost_range": {
+      "min": 0.12,
+      "max": 0.12,
+      "variance": 0.01
+    },
+    "time": "2025-10-12 15:06:54"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 12.0,
+    "result": 1056.0,
+    "rate": 88,
+    "mode": "live",
+    "cost_range": {
+      "min": 1045.44,
+      "max": 1066.56,
+      "variance": 0.01
+    },
+    "time": "2025-10-12 15:19:11"
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "amount": 12.0,
+    "result": 12.0,
+    "rate": 1.0,
+    "mode": "live",
+    "cost_range": {
+      "min": 11.88,
+      "max": 12.12,
+      "variance": 0.01
+    },
+    "time": "2025-10-12 15:19:19"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 23.0,
+    "result": 2024.0,
+    "rate": 88,
+    "mode": "live",
+    "cost_range": {
+      "min": 2003.76,
+      "max": 2044.24,
+      "variance": 0.01
+    },
+    "time": "2025-10-12 15:19:29"
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "amount": 13.0,
+    "result": 13.0,
+    "rate": 1.0,
+    "mode": "live",
+    "cost_range": {
+      "min": 12.87,
+      "max": 13.13,
+      "variance": 0.01
+    },
+    "time": "2025-10-12 15:20:56"
+  },
+  {
+    "from": "INR",
+    "to": "USD",
+    "amount": 110.0,
+    "result": 1.24,
+    "rate": 0.0113,
+    "mode": "live",
+    "cost_range": {
+      "min": 1.23,
+      "max": 1.25,
+      "variance": 0.01
+    },
+    "time": "2025-11-16 20:54:28"
+  },
+  {
+    "from": "INR",
+    "to": "USD",
+    "amount": 1.0,
+    "result": 0.01,
+    "rate": 0.0113,
+    "mode": "live",
+    "cost_range": {
+      "min": 0.01,
+      "max": 0.01,
+      "variance": 0.01
+    },
+    "time": "2025-11-16 21:03:59"
+  },
+  {
+    "from": "INR",
+    "to": "USD",
+    "amount": 34.0,
+    "result": 0.38,
+    "rate": 0.0113,
+    "mode": "live",
+    "cost_range": {
+      "min": 0.38,
+      "max": 0.38,
+      "variance": 0.01
+    },
+    "time": "2025-11-16 21:04:21"
+  },
+  {
+    "from": "INR",
+    "to": "USD",
+    "amount": 34.0,
+    "result": 0.38,
+    "rate": 0.0113,
+    "mode": "live",
+    "cost_range": {
+      "min": 0.38,
+      "max": 0.38,
+      "variance": 0.01
+    },
+    "time": "2025-11-16 21:24:03"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 23.0,
+    "result": 2041.48,
+    "rate": 88.76,
+    "mode": "live",
+    "cost_range": {
+      "min": 2021.07,
+      "max": 2061.89,
+      "variance": 0.01
+    },
+    "time": "2025-11-16 21:24:23"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 100.0,
+    "result": 8866.0,
+    "rate": 88.66,
+    "mode": "live",
+    "cost_range": {
+      "min": 8777.34,
+      "max": 8954.66,
+      "variance": 0.01
+    },
+    "time": "2025-11-18 10:17:15"
+  },
+  {
+    "from": "EUR",
+    "to": "INR",
+    "amount": 0.02,
+    "result": 2.05,
+    "rate": 102.63,
+    "mode": "live",
+    "cost_range": {
+      "min": 2.03,
+      "max": 2.07,
+      "variance": 0.01
+    },
+    "time": "2025-11-19 15:10:08"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 200.0,
+    "result": 17718.0,
+    "rate": 88.59,
+    "mode": "live",
+    "cost_range": {
+      "min": 17540.82,
+      "max": 17895.18,
+      "variance": 0.01
+    },
+    "time": "2025-11-19 16:17:14"
+  },
+  {
+    "from": "INR",
+    "to": "USD",
+    "amount": 110.0,
+    "result": 1.21,
+    "rate": 0.011,
+    "mode": "simulated",
+    "cost_range": {
+      "min": 1.2,
+      "max": 1.22,
+      "variance": 0.01
+    },
+    "time": "2025-11-21 16:05:36"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 110.0,
+    "result": 9680.0,
+    "rate": 88,
+    "mode": "simulated",
+    "cost_range": {
+      "min": 9583.2,
+      "max": 9776.8,
+      "variance": 0.01
+    },
+    "time": "2025-11-21 16:06:31"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 10.0,
+    "result": 894.5,
+    "rate": 89.45,
+    "mode": "live",
+    "cost_range": {
+      "min": 885.55,
+      "max": 903.45,
+      "variance": 0.01
+    },
+    "time": "2025-11-22 21:35:55"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 10.0,
+    "result": 880.0,
+    "rate": 88,
+    "mode": "live",
+    "cost_range": {
+      "min": 871.2,
+      "max": 888.8,
+      "variance": 0.01
+    },
+    "time": "2025-11-24 20:43:43"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 10.0,
+    "result": 896.3,
+    "rate": 89.63,
+    "mode": "live",
+    "cost_range": {
+      "min": 887.34,
+      "max": 905.26,
+      "variance": 0.01
+    },
+    "time": "2025-11-24 20:43:58"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 10.0,
+    "result": 891.8,
+    "rate": 89.18,
+    "mode": "live",
+    "cost_range": {
+      "min": 882.88,
+      "max": 900.72,
+      "variance": 0.01
+    },
+    "time": "2025-11-25 09:00:08"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 20.0,
+    "result": 1783.6,
+    "rate": 89.18,
+    "mode": "live",
+    "cost_range": {
+      "min": 1765.76,
+      "max": 1801.44,
+      "variance": 0.01
+    },
+    "time": "2025-11-25 10:43:15"
+  },
+  {
+    "from": "INR",
+    "to": "USD",
+    "amount": 10.0,
+    "result": 0.11,
+    "rate": 0.0111,
+    "mode": "live",
+    "cost_range": {
+      "min": 0.11,
+      "max": 0.11,
+      "variance": 0.01
+    },
+    "time": "2025-12-06 21:11:30"
+  },
+  {
+    "from": "USD",
+    "to": "INR",
+    "amount": 110.0,
+    "result": 9901.1,
+    "rate": 90.01,
+    "mode": "live",
+    "cost_range": {
+      "min": 9802.09,
+      "max": 10000.11,
+      "variance": 0.01
+    },
+    "time": "2025-12-06 21:12:11"
+  }
+]
